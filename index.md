@@ -4,6 +4,9 @@ The purpose of Opportunity Zones was to create an incentive for developers to ch
 
 <p>Critics of the program have bemoaned the fact that there is not program data available, meaning it is not possible to tell where development has actually occurred. The process of designation was also non-transparent, with zones being ultimately selected by governors, hypothetically based on a variety of indicators. <a href="https://www.propublica.org/article/superyacht-marina-west-palm-beach-opportunity-zone-trump-tax-break-to-help-the-poor-went-to-a-rich-gop-donor">Investigative news reports found the process of choosing these zones was also susceptible to political lobbying.</a> </p>
 
+<i>The following map indicates where Opportunity Zones were designated across the country, with tracts that had growing population between the 2010 and 2020 Decennial Census highlighted in blue, and the opposite in red.</i>
+![This is an image](all_opzones.png)
+
 <p>In Michigan, while the chosen Opportunity Zones are widely spread across the state, an analysis of 2010-2019 American Community Survey data shows roughly a third of the Opportunity Zones in Michigan lie among the top quarter of fastest-growing Census tracts in the state, in terms of median household income.
   
 <p>This map showing those zones and 10 projects identified so far by the <a href = "https://eig.org/oz-activity-map">Economic Innovation Group</a> demonstrate that developers have so far favored more populace areas. Two towns with some of the most depressed zones — Flint and Saginaw — have been passed over for investments thus far, at least among those picked up by the think tank.</p>
