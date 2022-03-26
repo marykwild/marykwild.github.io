@@ -1,1 +1,1 @@
-<div><iframe src="index.html" height="500" width="500"></iframe></div>
+<iframe src="index.html" height="500" width="500"></iframe>
