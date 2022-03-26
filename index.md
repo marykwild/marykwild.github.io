@@ -8,12 +8,12 @@ The purpose of Opportunity Zones was to create an incentive for developers to ch
 
 <iframe src="opzones_map.html" height="500" width="500"></iframe>
 
-<p>A small sample of 10 publicly announced Opportunity Zone investments in Michigan highlights some of the criticisms of the program. Of those 10, four lie directly within those zones that Census estimates indicate were already among the fastest growing in the state, both in population and income. A fifth in Grand Rapids is two blocks away from one of these tracts. None of these 10 projects lie within the declining Opportunity Zone tracts identified, meanwhile. 
-
-However, the example of downtown Detroit provides a view into how juxtaposed wealth and prosperity can be even in nearby communities, with some of the fastest-growing and fastest-declining Opportunity Zones situated directly next to each other. Whether an investment in one Opportunity Zone will benefit another zone and its community nearby is a far more subjective question.
-
-Other subjective questions, and harder ones: Whether developers can be incentivized to build and invest in communities they don't feel will pay them back, and whether these communities' economic futures should be entrusted to the will of private companies.</p>
+<p>A small sample of 10 publicly announced Opportunity Zone investments in Michigan highlights some of the criticisms of the program. Of those 10, four lie directly within those zones that Census estimates indicate were already among the fastest growing in the state, both in population and income. A fifth in Grand Rapids is two blocks away from one of these tracts. None of these 10 projects lie within the declining Opportunity Zone tracts identified, meanwhile. </p>
 
 <i>This figure shows how of these 10 publicly announced Opportunity Zone investments, many lie within the fastest <strong>growing</strong> Opportunity Zones, while none are within the fastest <strong>declining</strong> Opportunity Zone tracts most in need of an economic boost. </i>
 
 <iframe src="zoom_map.html" height="500" width="500"></iframe>
+
+<p> However, the example of downtown Detroit provides a view into how juxtaposed wealth and prosperity can be even in nearby communities, with some of the fastest-growing and fastest-declining Opportunity Zones situated directly next to each other. Whether an investment in one Opportunity Zone will benefit another zone and its community nearby is a far more subjective question.</p>
+
+<p>Other subjective questions, and harder ones: Whether developers can be incentivized to build and invest in communities they don't feel will pay them back, and whether these communities' economic futures should be entrusted to the will of private companies.</p>
