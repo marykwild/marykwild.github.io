@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/marykwild/marykwild.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<iframe src="index.html" height="500" width="500"></iframe>
+<iframe src="index.html" height="50" width="50"></iframe>
 
 ### Markdown
 
