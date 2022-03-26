@@ -12,7 +12,7 @@ The purpose of Opportunity Zones was to create an incentive for developers to ch
 
 <i>This figure shows how of these 10 publicly announced Opportunity Zone investments, many lie within the fastest <strong>growing</strong> Opportunity Zones, while none are within the fastest <strong>declining</strong> Opportunity Zone tracts most in need of an economic boost. </i>
 
-<iframe src="zoom_map.html" height="500" width="500"></iframe>
+<iframe src="opzones_map_zoom.html" height="500" width="500"></iframe>
 
 <p> However, the example of downtown Detroit provides a view into how juxtaposed wealth and prosperity can be even in nearby communities, with some of the fastest-growing and fastest-declining Opportunity Zones situated directly next to each other. Whether an investment in one Opportunity Zone will benefit another zone and its community nearby is a far more subjective question.</p>
 
