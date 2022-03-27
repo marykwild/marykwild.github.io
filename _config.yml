@@ -3,4 +3,6 @@ minimal_mistakes_skin: "dirt"
 
 title: M.K. Wildeman
 description: Data storyteller
-logo: "/assets/images/thumbnail_MK.jpg"
+
+header:
+  image: /assets/images/thumbnail_MK.jpg
