@@ -1,3 +1,6 @@
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dirt"
+
 title: M.K. Wildeman
 description: Data storyteller
+logo: "/assets/images/88x88.png"
