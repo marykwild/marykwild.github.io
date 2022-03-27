@@ -1,3 +1,13 @@
 theme: jekyll-theme-minimal
 title: Do investments in Opportunity Zones benefit slow-growth areas?
 description: Analysis of Census data and a small subset of available Opportunity Zones shows the answer might be no.
+
+avatar: "thumbnail_MK.jpg"
+round-avatar: true
+
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
