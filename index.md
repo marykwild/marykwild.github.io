@@ -1,3 +1,8 @@
+## <a href="https://marykwild.github.io/capstone/">Investigating the fairness of the mortgage market</a>
+For my final, group project at the University of Missouri's data science master's degree program, I worked with millions of rows of data from the Consumer Financial Protection Bureau, making use of data points newly released in 2018 to evaluate whether the lending market is fair to non-white borrowers, even when controlling for an individual's financial status. 
+
+![This is an image](/assets/images/shinyappscreenshot.png)
+
 ## <a href="https://marykwild.github.io/opzones/">A look at Michigan's Opportunity Zones</a>
 For my concentration in geospatial analytics at the University of Missouri's master's degree program, I took a look at whether Opportunity Zones in Michigan were selected in areas that were already growing, and where some early investments have been directed.
 
