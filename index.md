@@ -3,11 +3,15 @@ For my final, group project at the University of Missouri's data science master'
 
 ![This is an image](/assets/images/shinyappscreenshot.png)
 
-## <a href="https://marykwild.github.io/pricetransparency">R Shiny project: Hospital price transparency</a>
-I put in considerable effort into collecting and analyzing the price transparency files hospitals began disclosing under a federal rule by the Trump administration. Here are some of the results.
+## <a href="https://marykwild.github.io/pricetransparency">Hospitals' price transparency</a>
+I put in considerable effort into collecting and analyzing the price transparency files hospitals began disclosing under a federal rule by the Trump administration, revealing the rates hospitals have negotiated with . Here are some of the results.
+<br>
+<br>
 <br>
 ![This is an image](/assets/images/transparency_thumb.png)
-
+<br>
+<br>
+<br>
 ## <a href="https://marykwild.github.io/opzones/">A look at Michigan's Opportunity Zones</a>
 For my concentration in geospatial analytics at the University of Missouri's master's degree program, I took a look at whether Opportunity Zones in Michigan were selected in areas that were already growing, and where some early investments have been directed.
 
